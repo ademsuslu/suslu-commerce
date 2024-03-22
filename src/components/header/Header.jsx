@@ -11,7 +11,7 @@ export default function Header() {
     <header>
       <nav className="flex justify-between items-center h-12 px-4 shadow-md bg-gray-800 text-white">
         <Link href="/" className="text-lg font-bold">
-          Amazon Shopping Cart
+          Süslü Shopping
         </Link>
         <div>
           <span className="cart-badge">
